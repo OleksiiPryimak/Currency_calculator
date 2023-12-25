@@ -1,5 +1,5 @@
 # python (location)/Currency_calculator.py USD 2023.03.10
-# python (location)/0418pro.py USD
+# python (location)/Currency_calculator.py USD
 # 2021 sep 6
 # python (location)/Currency_calculator.py
 # usd
